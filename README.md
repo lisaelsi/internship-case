@@ -4,7 +4,7 @@ This is the code from the first part of a case I did for a summer internship at 
 
 I got an offer but declined as I accepted an offer for another summer internship. I really enjoyed doing this case however.
 
-Here is a link to the second part: 
+Here is a link to the second part: https://github.com/lisaelsi/final-internship-case/
 
 The instructions that were given:
 
